@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Sharma</h1>
-<h3 align="center">IT Engineer · Learning DevOps · Based in India</h3>
+<h3 align="center">IT Engineer · </h3>
 
 <p align="center">
   <a href="mailto:nitin.srma0720@gmail.com">
